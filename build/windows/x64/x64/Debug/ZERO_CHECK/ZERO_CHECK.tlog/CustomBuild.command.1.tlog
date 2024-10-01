@@ -1,0 +1,10 @@
+^C:\USERS\DAMAJ-PC\FLUTTER_PROJECTS\LOADING_TEXT\LOADING_TEXT\BUILD\WINDOWS\X64\CMAKEFILES\315D6E071FB46382AAC429068BB6190F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/windows -BC:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/loading_text.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/runner/CMakeFiles/loading_text.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/DAMAJ-PC/flutter_projects/loading_text/loading_text/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
